@@ -61,7 +61,7 @@ sudo apt install -y git
 ### 2️⃣ Download the Setup Script
 Clone this repository to your Raspberry Pi:
 ```bash
-git clone https://github.com/adamomd/ILI9488RPIScript.git
+git clone https://github.com/grimmorium/ILI9488RPIScript.git
 ```
 
 ### 3️⃣ Run the Setup Script
@@ -127,10 +127,3 @@ sudo ./setup_ili9488.sh
 
 ---
 
-
-
-## 🌟 Feedback and Suggestions
-We value your feedback! If you encounter issues or have suggestions, feel free to open an issue or contribute to the repository.
-
-Happy Hacking!  
-Script and Guide by AdamoMD
