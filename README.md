@@ -115,7 +115,7 @@ sudo apt update
 sudo apt install -y git
 
 # Clone the setup script repository
-git clone https://github.com/adamomd/ILI9488RPIScript.git
+git clone https://github.com/grimmorium/ILI9488RPIScript.git
 
 # Navigate to the script's directory
 cd ILI9488RPIScript
