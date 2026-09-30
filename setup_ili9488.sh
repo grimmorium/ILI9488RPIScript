@@ -37,6 +37,7 @@ echo "Starting TFT setup..."
 echo "Updating the system and installing dependencies..."
 apt update && apt upgrade -y
 apt install -y cmake git build-essential nano libraspberrypi-dev raspi-config
+apt-get install --reinstall libraspberrypi0 libraspberrypi-dev libraspberrypi-doc libraspberrypi-bin
 
 # Configure fbcp-ili9341
 echo "Downloading and configuring fbcp-ili9341..."
